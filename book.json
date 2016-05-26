@@ -1,1 +1,29 @@
-{}
+{
+  "gitbook": "2.1.1",
+  "title": "Pro Git 第二版",
+  "description": "Pro Gi­t 第二版 ­简体中文",
+  "language": "zh",
+  "pluginsConfig": {
+    "fontSettings": {
+      "theme": "white",
+      "family": "msyh",
+      "size": 2
+    },
+    "plugins": [
+      "yahei",
+      "katex",
+      "-search"
+    ]
+  },
+  "pdf": {
+    "pageNumbers": true,
+    "fontSize": 18,
+    "paperSize": "a4",
+    "margin": {
+      "right": 30,
+      "left": 30,
+      "top": 30,
+      "bottom": 50
+    }
+  }
+}
